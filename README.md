@@ -14,7 +14,7 @@ Features
 Tools & Frameworks
 - Java 21
 - Selenium WebDriver 4.x
-- TestNG / JUnit
+- JUnit
 - Maven (for dependency management)
 - WebDriverWait and ExpectedConditions for stable test execution
 
